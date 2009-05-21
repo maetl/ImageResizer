@@ -1,0 +1,2 @@
+Image resizer, provides scaling, cropping, and best-guess resizing
+when the image aspect ratio changes.
